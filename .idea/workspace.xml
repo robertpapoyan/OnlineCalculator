@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0234ecd2-3c63-4e00-a4af-7b1366dcdb2e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2BkCHbvmfeJtKk81sLMQBNUieGa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\IdeaProjects\OnlineCalculatorPaysera\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.OnlineCalculatorLogicTest">
+    <configuration name="OnlineCalculatorLogicTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineCalculatorPaysera" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="tests.OnlineCalculatorLogicTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineCalculatorLogicTest.countrySellCurrency_Test4" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineCalculatorPaysera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.OnlineCalculatorLogicTest" />
+      <option name="METHOD_NAME" value="countrySellCurrency_Test4" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineCalculatorLogicTest.filterCurrency_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineCalculatorPaysera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.OnlineCalculatorLogicTest" />
+      <option name="METHOD_NAME" value="filterCurrency_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineCalculatorLogicTest.payseraConvertValueTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineCalculatorPaysera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.OnlineCalculatorLogicTest" />
+      <option name="METHOD_NAME" value="payseraConvertValueTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OnlineCalculatorLogicTest.sellFieldDefaultValueValidation_Test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="OnlineCalculatorPaysera" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.OnlineCalculatorLogicTest" />
+      <option name="METHOD_NAME" value="sellFieldDefaultValueValidation_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.OnlineCalculatorLogicTest" />
+        <item itemvalue="TestNG.OnlineCalculatorLogicTest.sellFieldDefaultValueValidation_Test" />
+        <item itemvalue="TestNG.OnlineCalculatorLogicTest.payseraConvertValueTest" />
+        <item itemvalue="TestNG.OnlineCalculatorLogicTest.filterCurrency_Test" />
+        <item itemvalue="TestNG.OnlineCalculatorLogicTest.countrySellCurrency_Test4" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0234ecd2-3c63-4e00-a4af-7b1366dcdb2e" name="Default Changelist" comment="" />
+      <created>1657440608627</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657440608627</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1669209787096">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="465" y="241" key="com.intellij.ide.util.TipDialog/0.0.1536.834@0.0.1536.834" timestamp="1669209787096" />
+    <state x="209" y="112" key="new project wizard" timestamp="1669209813180">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="209" y="112" key="new project wizard/0.0.1536.834@0.0.1536.834" timestamp="1669209813180" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/OnlineCalculatorPaysera$SellFieldTest.ic" NAME="SellFieldTest Coverage Results" MODIFIED="1657465369267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
